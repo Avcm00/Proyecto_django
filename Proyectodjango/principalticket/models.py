@@ -93,3 +93,4 @@ class LinkedList:
         temp.next = None
 
 
+"""es"""
